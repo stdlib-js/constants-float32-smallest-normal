@@ -20,7 +20,7 @@ limitations under the License.
 
 # Smallest Normal
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Smallest positive **normalized** [single-precision floating-point number][ieee754].
 
@@ -82,8 +82,8 @@ console.log( FLOAT32_SMALLEST_NORMAL );
 
 ## See Also
 
--   [`@stdlib/constants/float32/smallest-subnormal`][@stdlib/constants/float32/smallest-subnormal]: smallest positive single-precision floating-point subnormal number.
--   [`@stdlib/constants/float64/smallest-normal`][@stdlib/constants/float64/smallest-normal]: smallest positive double-precision floating-point normal number.
+-   <span class="package-name">[`@stdlib/constants/float32/smallest-subnormal`][@stdlib/constants/float32/smallest-subnormal]</span><span class="delimiter">: </span><span class="description">smallest positive single-precision floating-point subnormal number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/smallest-normal`][@stdlib/constants/float64/smallest-normal]</span><span class="delimiter">: </span><span class="description">smallest positive double-precision floating-point normal number.</span>
 
 </section>
 
@@ -134,8 +134,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float32-smallest-normal/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-float32-smallest-normal?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-float32-smallest-normal.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-float32-smallest-normal/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
