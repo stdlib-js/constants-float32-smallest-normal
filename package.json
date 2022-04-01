@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/constants-float32-smallest-normal",
+  "version": "0.0.0",
+  "description": "Smallest positive normalized single-precision floating-point number.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-float32-smallest-normal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "mathematics",
+    "math",
+    "float",
+    "float32",
+    "32bit",
+    "positive",
+    "nonzero",
+    "min",
+    "minimum",
+    "smallest",
+    "floating-point",
+    "ieee754",
+    "normalized",
+    "normal"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
